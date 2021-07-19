@@ -29,24 +29,24 @@ void launchURL(String _url) async =>
 
 // Community
 final kCommunityLogo = [
-  'assets/cui.png',
-  'assets/flutterIsl.png',
-  'assets/dsc.png'
+  'assets/ku.png',
+  'assets/mcp.png',
+  'assets/c-sharp.png'
 ];
 
 final kCommunityLinks = [
-  "https://www.comsats.edu.pk/",
-  "https://web.facebook.com/FlutterIslamabadPakistan/",
-  "https://dsc.community.dev/comsats-university-islamabad/"
+  "https://www.uok.edu.pk/",
+  "https://www.microsoft.com/",
+  "https://www.microsoft.com/"
 ];
 
 // Tools & Tech
 final kTools = [
-  "Flutter",
-  "Dart",
+  "C#",
+  "VB.Net",
   "Python",
-  "Java",
-  "C++",
+  "SQL",
+  "MVC",
   "HTML",
   "CSS",
   "Bootstrap"
@@ -56,17 +56,15 @@ final kTools = [
 final kServicesIcons = [
   "assets/services/app.png",
   "assets/services/ui.png",
-  "assets/services/rapid.png",
   "assets/services/blog.png",
   "assets/services/open.png",
 ];
 
 final kServicesTitles = [
   "Full App Development",
-  "UI/UX Designing",
-  "Rapid Prototyping",
+  "Professional Projects",
   "Technical Blog Writing",
-  "Open Source - GitHub",
+  "Project Management",
 ];
 
 // final kServicesDescriptions = [
@@ -78,11 +76,10 @@ final kServicesTitles = [
 // ];
 
 final kServicesDescriptions = [
-  "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!",
-  "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!",
-  "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype",
+  "Apps development, using\n- ASP.Net\n- C#\n- REST APIs\n- Xamarin and more...!",
+  "Multiple products delivered\n- BrCa EMR\n- Q-Banking for SJMU\n- Sehaty App\n- and more..!",
   "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!",
-  "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!",
+  "Projects Managed For\n- GAP, Inc.\n- Macys\n- William Sonama \n- Delloite and more...!",
 ];
 
 final kServicesLinks = [
@@ -167,7 +164,7 @@ final kContactTitles = [
 ];
 
 final kContactDetails = [
-  "Attock, Pakistan",
-  "(+92) 346 0159889",
-  "hamza@mhmz.dev"
+  "Karachi, Pakistan",
+  "(+92) 332 8786497",
+  "waqas@waqasahmed.xyz"
 ];

@@ -55,7 +55,7 @@ class AboutDesktop extends StatelessWidget {
                         height: height * 0.03,
                       ),
                       AdaptiveText(
-                        "I'm Muhammad Hamza, a Flutter developer, Technical blog writer and UI designer.",
+                        "I'm Waqas Ahmed, a Software Engineer, Technical blog writer and Technical project manager.",
                         style: GoogleFonts.montserrat(
                           fontSize: height * 0.035,
                           fontWeight: FontWeight.w400,
@@ -68,7 +68,7 @@ class AboutDesktop extends StatelessWidget {
                         height: height * 0.02,
                       ),
                       AdaptiveText(
-                        "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 1.5 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm an active Google Developer Student Clubs (DSC) lead and also CEO/Founder Flutter Islamabad, Pakistan.",
+                        "I'm a 15+ year experience software engineer with a passion to connect busines with technology.",
                         style: GoogleFonts.montserrat(
                           fontSize: height * 0.02,
                           color: Colors.grey[500],
@@ -121,11 +121,11 @@ class AboutDesktop extends StatelessWidget {
                         children: [
                           AboutMeMetaData(
                             data: "Name",
-                            information: "Muhammad Hamza",
+                            information: "Waqas Ahmed",
                           ),
                           AboutMeMetaData(
                             data: "Email",
-                            information: "hamza.6.shakeel@gmail.com",
+                            information: "waqasahmed7@hotmail.com",
                           ),
                         ],
                       ),

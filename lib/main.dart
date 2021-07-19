@@ -40,7 +40,7 @@ class _MyAppState extends State<MyApp> {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Hamza',
+        title: 'Waqas',
         theme: ThemeStyles.themeData(_themeProvider.lightTheme, context),
         initialRoute: "/",
         routes: {
