@@ -2,7 +2,7 @@
     package="com.hmz.folio">
    <uses-permission android:name="android.permission.INTERNET" /> 
    <application
-        android:label="Hamza"
+        android:label="Waqas"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

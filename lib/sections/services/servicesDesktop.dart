@@ -202,7 +202,7 @@ class ServiceCardBackWidget extends StatelessWidget {
                           CustomFilledBtn(
                             height: 40.0,
                             onPressed: () =>
-                                launchURL("https://wa.me/?text=Hi Hamza!"),
+                                launchURL("https://wa.me/?text=Hi Waqas!"),
                             btnColor: Color(0xff34CB62),
                             child: Row(
                               mainAxisSize: MainAxisSize.min,
@@ -217,18 +217,18 @@ class ServiceCardBackWidget extends StatelessWidget {
                           CustomFilledBtn(
                             height: 40.0,
                             onPressed: () => launchURL(
-                                "https://www.upwork.com/freelancers/~0197b0f6aaeba9675f"),
+                                "https://www.linkedin.com/in/waqasahmed7"),
                             btnColor: Color(0xff13A800),
                             child: Row(
                               mainAxisSize: MainAxisSize.min,
                               children: [
                                 Image.network(
-                                  "https://img.icons8.com/ios-filled/50/000000/upwork.png",
+                                  "https://img.icons8.com/ios-filled/50/000000/linkedin.png",
                                   height: 35.0,
                                   color: Colors.white,
                                 ),
                                 const SizedBox(width: 8.0),
-                                Text("Upwork"),
+                                Text("LinkedIn"),
                               ],
                             ),
                           ),

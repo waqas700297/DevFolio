@@ -48,7 +48,7 @@ class AboutTab extends StatelessWidget {
             height: height * 0.032,
           ),
           Text(
-            "I'm Muhammad Hamza, a Flutter developer, Technical blog writer and UI designer.",
+            "I'm Waqas, a software engineer, Technical blog writer and project manager.",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.035,
               fontWeight: FontWeight.w400,
@@ -59,7 +59,7 @@ class AboutTab extends StatelessWidget {
             height: height * 0.02,
           ),
           Text(
-            "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 1.5 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm an active Google Developer Student Clubs (DSC) lead and also CEO/Founder Flutter Islamabad, Pakistan.",
+            "I have been developing softwares for over 15 years now.",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.02,
               color: Colors.grey[500],
@@ -115,11 +115,11 @@ class AboutTab extends StatelessWidget {
                 children: [
                   AboutMeMetaData(
                     data: "Name",
-                    information: "Muhammad Hamza",
+                    information: "Waqas Ahmed",
                   ),
                   AboutMeMetaData(
                     data: "Age",
-                    information: "23",
+                    information: "41",
                   ),
                 ],
               ),
@@ -131,11 +131,11 @@ class AboutTab extends StatelessWidget {
                 children: [
                   AboutMeMetaData(
                     data: "Email",
-                    information: "hamza.6.shakeel@gmail.com",
+                    information: "waqasahmed7@hotmail.com",
                   ),
                   AboutMeMetaData(
                     data: "From",
-                    information: "Attock, PK",
+                    information: "Karachi, PK",
                   ),
                 ],
               ),
@@ -153,7 +153,7 @@ class AboutTab extends StatelessWidget {
                     onPressed: () {
                       kIsWeb
                           ? html.window.open(
-                              'https://drive.google.com/uc?export=view&id=1OOdcdGEN3thVvpZ4cl_MM0LT-GCMuLIE',
+                              'https://docs.google.com/document/d/1On4UpBIHDRdVB-Scs4e-c_WOC6IogDmNkvak6_eEjdk/edit?usp=sharing',
                               "pdf")
                           : launchURL(
                               'https://drive.google.com/uc?export=view&id=1OOdcdGEN3thVvpZ4cl_MM0LT-GCMuLIE');

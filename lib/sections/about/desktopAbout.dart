@@ -139,7 +139,7 @@ class AboutDesktop extends StatelessWidget {
                             child: OutlinedCustomBtn(
                               onPressed: () {
                                 html.window.open(
-                                    'https://drive.google.com/file/d/1GF-wtbu2ob_Uxhw2In2QA8QiYi3XjCj1/view?usp=sharing',
+                                    'https://docs.google.com/document/d/1On4UpBIHDRdVB-Scs4e-c_WOC6IogDmNkvak6_eEjdk/edit?usp=sharing',
                                     "pdf");
                               },
                               btnText: "Resume",

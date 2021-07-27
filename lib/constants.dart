@@ -11,16 +11,16 @@ const kSocialIcons = [
   "https://img.icons8.com/android/480/ffffff/twitter.png",
   "https://img.icons8.com/metro/308/ffffff/linkedin.png",
   "https://img.icons8.com/material-rounded/384/ffffff/github.png",
-  "https://img.icons8.com/ios-filled/500/ffffff/medium-monogram--v1.png"
+  "https://img.icons8.com/ios-filled/48/000000/domain.png"
 ];
 
 const kSocialLinks = [
-  "https://facebook.com/mhmzdev",
-  "https://instagram.com/mhmzdev",
-  "https://twitter.com/mhmzdev",
-  "https://linkedin.com/in/mhmzdev",
-  "https://github.com/mhmzdev",
-  "https://mhamzadev.medium.com"
+  "https://facebook.com/waqasahmed7",
+  "https://instagram.com/waqasahmed7",
+  "https://twitter.com/waqas700297",
+  "https://linkedin.com/in/waqasahmed7",
+  "https://github.com/waqas700297",
+  "https://www.waqasahmed.xyz"
 ];
 
 // URL Launcher
@@ -49,7 +49,7 @@ final kTools = [
   "MVC",
   "HTML",
   "CSS",
-  "Bootstrap"
+  "Javascript"
 ];
 
 // services
@@ -83,11 +83,11 @@ final kServicesDescriptions = [
 ];
 
 final kServicesLinks = [
-  "https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter",
-  "https://www.fiverr.com/hamza6shakeel/get-you-modern-ui-design-using-adobe-xd",
-  "https://www.fiverr.com/hamza6shakeel/be-your-mobile-app-developer-via-flutter",
-  "https://mhamzadev.medium.com",
-  "https://github.com/mhmzdev"
+  "https://www.waqasahmed.xyz",
+  "https://www.waqasahmed.xyz",
+  "https://www.waqasahmed.xyz",
+  "https://www.waqasahmed.xyz",
+  "https://github.com/waqas700297"
 ];
 
 // projects
@@ -95,59 +95,30 @@ final kProjectsBanner = [
   "assets/projects/medkitB.png",
   "assets/projects/quranB.png",
   "assets/projects/hereiamB.png",
-  "assets/projects/covidB.png",
-];
+ ];
 
 final kProjectsIcons = [
   "assets/projects/medkit.png",
   "assets/projects/quran.png",
   "assets/projects/hereiam.png",
-  "assets/projects/covid.png",
-  "assets/projects/messenger.png",
-  "assets/projects/flutter.png",
-  "assets/projects/earbender.png",
-  "assets/projects/java.png",
-  "assets/projects/android.png",
-  "assets/services/open.png",
-];
+ ];
 
 final kProjectsTitles = [
-  "MedKit",
-  "The Holy Qur'an",
-  "Here I Am",
-  "COVID-19",
-  "Messenger Chat Head UI",
-  "flutter.dev - Flutter Web",
-  "Earbender",
-  "File Transfer Protocol",
-  "My Order",
-  "Hidev",
-];
+  "Sehaty",
+  "Breast Cancer - EMR",
+  "SJMU - Q Bank",
+ ];
 
 final kProjectsDescriptions = [
-  "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels.",
-  "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md",
-  "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones.",
-  "A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live.",
-  "Tried to clone the famous Chat Heads by Facebook Messenger using Flutter. Its basically in-app not exactly like the original chat head.",
-  "Flutter Official Site clone using Flutter Web. Try the live site here. For the time being its not responsive fully so there might be responsiveness issues.",
-  "A concept of Music App developed using Flutter. Having functionality of playing Audio.",
-  "A simple GUI based Java application that sends file from Client to Server but not the other way around.",
-  "A concept app for self-services at various restaurants now a days. More like a Restaurant Ordering System.",
-  "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Developer Marcin Szałek and his blog Fidev."
+  "A healthcare app developed using Ionic powered with MongoDB as database for hospitals and Patients.",
+  "Web base Application for Liaquat National Hospital Surgery department. Developed using ASP.Net.",
+  "Q-Bank app for Sindh Jinnah Medical University that is used to prepare and bank questions for medical examinations.",
 ];
 
 final kProjectsLinks = [
-  "https://github.com/mhmzdev/MedKit-Pharmacy-App-Using-Flutter",
-  "https://github.com/mhmzdev/The_Holy_Quran_App",
-  "https://github.com/mhmzdev/Here-I-Am-Alert-App",
-  "https://github.com/mhmzdev/Covid19-Tracker-App",
-  "https://github.com/mhmzdev/Messenger-Chat-Head-Flutter-UI",
-  "https://github.com/mhmzdev/flutter.dev-Flutter-Web-Clone",
-  "https://github.com/mhmzdev/Earbender_Music_App",
-  "https://github.com/mhmzdev/FTP_GUI_Java",
-  "https://github.com/mhmzdev/My-Order-Resturant-Ordering-System",
-  "https://github.com/mhmzdev/Hidev_Web",
+  "https://www.waqasahmed.xyz",
+  "https://www.waqasahmed.xyz",
+  "https://www.waqasahmed.xyz",
 ];
 
 // Contact
@@ -166,5 +137,5 @@ final kContactTitles = [
 final kContactDetails = [
   "Karachi, Pakistan",
   "(+92) 332 8786497",
-  "waqas@waqasahmed.xyz"
+  "waqasahmed7@hotmail.com"
 ];
