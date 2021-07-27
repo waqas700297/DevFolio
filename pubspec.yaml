@@ -37,8 +37,15 @@ dependencies:
   provider: ^5.0.0
   shared_preferences: ^2.0.6
   flip_card: ^0.5.0
+  flutter_launcher_icons: "^0.9.1"
 
   mailto: ^2.0.0
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/icons/icon.png"
+
 
 dev_dependencies:
   flutter_test:

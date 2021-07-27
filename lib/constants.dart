@@ -57,14 +57,14 @@ final kServicesIcons = [
   "assets/services/app.png",
   "assets/services/ui.png",
   "assets/services/blog.png",
-  "assets/services/open.png",
+  "assets/services/open.png"
 ];
 
 final kServicesTitles = [
   "Full App Development",
   "Professional Projects",
   "Technical Blog Writing",
-  "Project Management",
+  "Project Management"
 ];
 
 // final kServicesDescriptions = [
@@ -79,7 +79,7 @@ final kServicesDescriptions = [
   "Apps development, using\n- ASP.Net\n- C#\n- REST APIs\n- Xamarin and more...!",
   "Multiple products delivered\n- BrCa EMR\n- Q-Banking for SJMU\n- Sehaty App\n- and more..!",
   "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!",
-  "Projects Managed For\n- GAP, Inc.\n- Macys\n- William Sonama \n- Delloite and more...!",
+  "Projects Managed For\n- GAP, Inc.\n- Macys\n- William Sonama \n- Delloite and more...!"
 ];
 
 final kServicesLinks = [
@@ -94,44 +94,45 @@ final kServicesLinks = [
 final kProjectsBanner = [
   "assets/projects/medkitB.png",
   "assets/projects/quranB.png",
-  "assets/projects/hereiamB.png",
+  "assets/projects/hereiamB.png"
  ];
 
 final kProjectsIcons = [
   "assets/projects/medkit.png",
   "assets/projects/quran.png",
-  "assets/projects/hereiam.png",
+  "assets/projects/hereiam.png"
  ];
 
 final kProjectsTitles = [
   "Sehaty",
   "Breast Cancer - EMR",
-  "SJMU - Q Bank",
+  "SJMU - Q Bank"
  ];
 
 final kProjectsDescriptions = [
   "A healthcare app developed using Ionic powered with MongoDB as database for hospitals and Patients.",
   "Web base Application for Liaquat National Hospital Surgery department. Developed using ASP.Net.",
   "Q-Bank app for Sindh Jinnah Medical University that is used to prepare and bank questions for medical examinations.",
+  "Tech. SME Desktop App"
 ];
 
 final kProjectsLinks = [
   "https://www.waqasahmed.xyz",
   "https://www.waqasahmed.xyz",
-  "https://www.waqasahmed.xyz",
+  "https://www.waqasahmed.xyz"
 ];
 
 // Contact
 final kContactIcons = [
   Icons.home,
   Icons.phone,
-  Icons.mail,
+  Icons.mail
 ];
 
 final kContactTitles = [
   "Location",
   "Phone",
-  "Email",
+  "Email"
 ];
 
 final kContactDetails = [
