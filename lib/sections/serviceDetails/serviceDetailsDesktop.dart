@@ -124,7 +124,7 @@ class ServiceDetailsDescription extends StatelessWidget {
             alignment: Alignment.center,
             child: CustomFilledBtn(
               height: 40.0,
-              onPressed: () => launchURL("https://wa.me/?text=Hi Hamza!"),
+              onPressed: () => launchURL("https://wa.me/?text=Hi Waqas!"),
               btnColor: Color(0xff34CB62),
               child: Row(
                 mainAxisSize: MainAxisSize.min,

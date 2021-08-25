@@ -33,7 +33,7 @@ class _ServiceDesktopState extends State<ServiceDesktop> {
         children: [
           CustomSectionHeading(text: "\nWhat I Do"),
           CustomSectionSubHeading(
-              text: "I may not be perfect, but I'm surely of some help :)\n\n"),
+              text: "The kind of things I do \n\n"),
           Column(
             children: [
               Row(

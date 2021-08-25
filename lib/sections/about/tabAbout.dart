@@ -28,7 +28,7 @@ class AboutTab extends StatelessWidget {
       child: Column(
         children: [
           CustomSectionHeading(text: "\nAbout Me"),
-          CustomSectionSubHeading(text: "Get to know me :)"),
+          CustomSectionSubHeading(text: "Get to know me"),
           Image.asset(
             'assets/mob.png',
             height: height * 0.3,
@@ -48,7 +48,7 @@ class AboutTab extends StatelessWidget {
             height: height * 0.032,
           ),
           Text(
-            "I'm Waqas, a software engineer, Technical blog writer and project manager.",
+            "I'm Waqas Ahmed, a Software Engineer, Technical Blog Writer and Technical Project Manager.",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.035,
               fontWeight: FontWeight.w400,
