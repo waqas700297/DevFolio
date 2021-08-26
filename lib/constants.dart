@@ -15,9 +15,9 @@ const kSocialIcons = [
 ];
 
 const kSocialLinks = [
-  "https://facebook.com/waqasahmed7",
-  "https://instagram.com/waqasahmed7",
-  "https://twitter.com/waqas700297",
+  "https://www.facebook.com/waqasvictor79",
+  "https://www.instagram.com/waqas_ahmed_2020/",
+  "https://twitter.com/",
   "https://linkedin.com/in/waqasahmed7",
   "https://github.com/waqas700297",
   "https://www.waqasahmed.xyz"
@@ -92,31 +92,36 @@ final kServicesLinks = [
 
 // projects
 final kProjectsBanner = [
-  "assets/projects/medkitB.png",
-  "assets/projects/quranB.png",
-  "assets/projects/hereiamB.png"
+  "assets/projects/Sehaty-Contents.png",
+  "assets/projects/BrCa-EMR-Contents.png",
+  "assets/projects/ItemBank-Contents.png",
+  "assets/projects/MediaERP-Contents.png"
  ];
 
 final kProjectsIcons = [
-  "assets/projects/medkit.png",
-  "assets/projects/quran.png",
-  "assets/projects/hereiam.png"
+  "assets/projects/Sehaty-Contents.png",
+  "assets/projects/BrCa-EMR-Contents.png",
+  "assets/projects/ItemBank-Contents.png",
+  "assets/projects/MediaERP-Contents.png"
+
  ];
 
 final kProjectsTitles = [
   "Sehaty",
   "Breast Cancer - EMR",
-  "SJMU - Q Bank"
+  "SJMU - Q Bank",
+  "Media ERP"
  ];
 
 final kProjectsDescriptions = [
   "A healthcare app developed using Ionic powered with MongoDB as database for hospitals and Patients.",
   "Web base Application for Liaquat National Hospital Surgery department. Developed using ASP.Net.",
   "Q-Bank app for Sindh Jinnah Medical University that is used to prepare and bank questions for medical examinations.",
-  "Tech. SME Desktop App"
+  "Media ERP For Lowe n Rauf, A leading media agency of Pakistan."
 ];
 
 final kProjectsLinks = [
+  "https://www.waqasahmed.xyz",
   "https://www.waqasahmed.xyz",
   "https://www.waqasahmed.xyz",
   "https://www.waqasahmed.xyz"

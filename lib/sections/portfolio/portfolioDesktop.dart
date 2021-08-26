@@ -27,14 +27,14 @@ class PortfolioDesktop extends StatelessWidget {
               separatorBuilder: (context, index) {
                 return VerticalDivider(
                   color: Colors.transparent,
-                  width: width * 0.015,
+                  width: width * 0.050,
                 );
               },
               itemBuilder: (context, index) {
                 return WidgetAnimator(
                   child: ProjectCard(
-                    cardWidth: width < 1200 ? width * 0.3 : width * 0.35,
-                    cardHeight: width < 1200 ? height * 0.32 : height * 0.1,
+                    cardWidth: width < 1200 ? width * 0.3 : width * 0.2,
+                    cardHeight: width < 1200 ? height * 0.32 : height * 0.3,
                     backImage: kProjectsBanner[index],
                     projectIcon: kProjectsIcons[index],
                     projectTitle: kProjectsTitles[index],
